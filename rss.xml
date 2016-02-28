@@ -4,7 +4,7 @@
         <description><![CDATA[Home page of Charles Finn]]></description>
         <link>https://thegrid.ai/charlesfinn/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Feb 2016 03:44:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Feb 2016 03:58:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/charlesfinn/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sunset over Las Campanas]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/charlesfinn/028b97f2-3289-450f-9594-fbf0ee876f4f/index.html</link>
             <guid isPermaLink="false">028b97f2-3289-450f-9594-fbf0ee876f4f</guid>
             <pubDate>Sun, 28 Feb 2016 03:43:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[About]]></title>
-            <description><![CDATA[<article><h1>About</h1><p>Hi! Welcome to my homepage. I'm a data scientist at SCL Group and a PhD graduate in astrophysics from Durham University UK. This website is a home for my professional resume, blog posts, thoughts on various topics, and a place to share my interests and passions. I hope you enjoy having a look around.</p></article>]]></description>
-            <link>https://thegrid.ai/charlesfinn/about/index.html</link>
-            <guid isPermaLink="false">51312291-2e78-4b39-8749-c62904f530f9</guid>
-            <pubDate>Sun, 28 Feb 2016 03:36:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
