@@ -4,7 +4,7 @@
         <description><![CDATA[Home page of Charles Finn]]></description>
         <link>https://thegrid.ai/charlesfinn/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Feb 2016 03:08:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Feb 2016 03:12:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/charlesfinn/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/charlesfinn/9c18f9e3-e0af-432c-b8ad-4cb3c05b77dd/index.html</link>
             <guid isPermaLink="false">9c18f9e3-e0af-432c-b8ad-4cb3c05b77dd</guid>
             <pubDate>Sun, 28 Feb 2016 03:07:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/172934f0-87fb-4619-a56d-498252f88024.JPG">]]></description>
-            <link>https://thegrid.ai/charlesfinn/b9c6f2cc-c9af-47e1-a3ef-b5ecc1a8e287/index.html</link>
-            <guid isPermaLink="false">b9c6f2cc-c9af-47e1-a3ef-b5ecc1a8e287</guid>
-            <pubDate>Sat, 27 Feb 2016 00:40:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
