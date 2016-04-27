@@ -6,12 +6,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.1875
   brandStrength: 0.1875
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: charlesfinn
 favicon: null
+name: charlesfinn
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.6899642
-layout_spectrum: 0.54757
+layout_spectrum: 0.6686341
